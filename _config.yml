@@ -2,6 +2,7 @@ title: GitHub Explore Feed
 description: Feed for GitHub Topics and Collections.
 
 repository: github/explore
+baseurl: /explore
 
 plugins:
   - jekyll-redirect-from
